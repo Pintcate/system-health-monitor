@@ -1,0 +1,4 @@
+alerts/telegram.conf
+logs/
+syswatch.sh.before-telegram
+syswatch.sh.save*
